@@ -9,7 +9,6 @@
 
 ![Downloads](https://img.shields.io/github/downloads/przystanmc/PrzystanFightClub/total?color=green)
 
-
 [⬇️ Download Latest Release](https://github.com/przystanmc/PrzystanFightClub/releases/latest)
 
 ![monitor](images/ekran_main.png)
