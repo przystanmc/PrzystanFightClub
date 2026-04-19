@@ -9,8 +9,9 @@
 ![Downloads](https://img.shields.io/github/downloads/przystanmc/PrzystanFightClub/total)
 
 
-[⬇️ Download Latest Release](https://github.com/TWOJ_LOGIN/TWOJE_REPO/releases/latest)
----
+[⬇️ Download Latest Release](https://github.com/przystanmc/PrzystanFightClub/releases/latest)
+
+![monitor](images/ekran_main.png)
 
 ## 🎮 Features
 
