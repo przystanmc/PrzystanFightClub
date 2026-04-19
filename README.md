@@ -5,12 +5,13 @@
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-![GitHub release](https://img.shields.io/github/v/release/TWOJ_LOGIN/TWOJE_REPO)
-![Downloads](https://img.shields.io/github/downloads/TWOJ_LOGIN/TWOJE_REPO/total)
+![GitHub release](https://img.shields.io/github/v/release/przystanmc/PrzystanFightClub)
+![Downloads](https://img.shields.io/github/downloads/przystanmc/PrzystanFightClub/total)
 
 
-[⬇️ Download Latest Release](https://github.com/TWOJ_LOGIN/TWOJE_REPO/releases/latest)
----
+[⬇️ Download Latest Release](https://github.com/przystanmc/PrzystanFightClub/releases/latest)
+
+![monitor](images/ekran_main.png)
 
 ## 🎮 Features
 
@@ -38,7 +39,9 @@ config.py            # settings & constants
 ui.py                # UI (menu, HUD)
 map.py               # maps & platforms
 ```
+```
 mistral_doc          # Dokumentacja projektu zgadnij kto ją napisał
+```
 ---
 
 ## ▶️ Run (dev)
