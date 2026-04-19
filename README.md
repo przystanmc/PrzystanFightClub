@@ -5,8 +5,9 @@
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-![GitHub release](https://img.shields.io/github/v/release/przystanmc/PrzystanFightClub)
-![Downloads](https://img.shields.io/github/downloads/przystanmc/PrzystanFightClub/total)
+![Release](https://img.shields.io/github/v/release/przystanmc/PrzystanFightClub?label=version&color=blue)
+
+![Downloads](https://img.shields.io/github/downloads/przystanmc/PrzystanFightClub/total?color=green)
 
 
 [⬇️ Download Latest Release](https://github.com/przystanmc/PrzystanFightClub/releases/latest)
