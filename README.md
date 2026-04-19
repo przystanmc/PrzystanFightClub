@@ -5,8 +5,8 @@
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-![GitHub release](https://img.shields.io/github/v/release/TWOJ_LOGIN/TWOJE_REPO)
-![Downloads](https://img.shields.io/github/downloads/TWOJ_LOGIN/TWOJE_REPO/total)
+![GitHub release](https://img.shields.io/github/v/release/przystanmc/PrzystanFightClub)
+![Downloads](https://img.shields.io/github/downloads/przystanmc/PrzystanFightClub/total)
 
 
 [⬇️ Download Latest Release](https://github.com/TWOJ_LOGIN/TWOJE_REPO/releases/latest)
