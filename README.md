@@ -38,7 +38,9 @@ config.py            # settings & constants
 ui.py                # UI (menu, HUD)
 map.py               # maps & platforms
 ```
+```
 mistral_doc          # Dokumentacja projektu zgadnij kto ją napisał
+```
 ---
 
 ## ▶️ Run (dev)
